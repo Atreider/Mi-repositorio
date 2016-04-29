@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Ejemplo</title>
+	<title>Ejemplo - pequeño cambio</title>
 </head>
 <body>
 	<header>
