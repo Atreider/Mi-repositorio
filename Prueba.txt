@@ -1,1 +1,1 @@
-Alert("Esto es una prueba");
+Alert("Hola que tal");
